@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 
-Most code was borrowed or inspired from class concepts taught in Module 5 of the June 2024 UMN Data Analytics Bootcamp course
+Most code was borrowed or inspired from class concepts taught in Module 10 of the June 2024 UMN Data Analytics Bootcamp course
 
 Chat GPT was used for review of structure in specific lines and for debugging.
 
